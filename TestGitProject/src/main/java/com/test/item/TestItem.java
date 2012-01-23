@@ -34,6 +34,6 @@ public class TestItem
         System.out.println("test87654321");
         System.out.println("testChrisBricker");
         System.out.println("!");
-        System.out.println("*");
+        System.out.println("*");    // CRW
     }
 }
