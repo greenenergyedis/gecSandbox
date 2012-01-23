@@ -4,4 +4,8 @@
   <artifactId>TestGitProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>TestGitProject</name>
+  <scm>
+  	<connection>scm:git:https://greenenergyedis:digidig1@github.com/greenenergyedis/gecSandbox.git</connection>
+  	<url>https://github.com/greenenergyedis/gecSandbox</url>
+  </scm>
 </project>
