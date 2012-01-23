@@ -8,4 +8,13 @@
   	<connection>scm:git:https://greenenergyedis:digidig1@github.com/greenenergyedis/gecSandbox.git</connection>
   	<url>https://github.com/greenenergyedis/gecSandbox</url>
   </scm>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.slf4j</groupId>
+  		<artifactId>slf4j-api</artifactId>
+  		<version>1.6.4</version>
+  		<type>jar</type>
+  		<scope>compile</scope>
+  	</dependency>
+  </dependencies>
 </project>
