@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.test</groupId>
   <artifactId>TestGitProject</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>TestGitProject</name>
   <scm>
   	<connection>scm:git:https://greenenergyedis:digidig1@github.com/greenenergyedis/gecSandbox.git</connection>
